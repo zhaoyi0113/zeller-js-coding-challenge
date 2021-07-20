@@ -1,5 +1,5 @@
 const hello = (name) => `Hello: ${name}`;
 
-const frineds = ['Michael', 'Joey', 'Alex', 'Dave'];
+const friends = ['Michael', 'Joey', 'Alex', 'Dave'];
 
-frineds.forEach((f) => console.log(hello(f)));
+friends.forEach((f) => console.log(hello(f)));
